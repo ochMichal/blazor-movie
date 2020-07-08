@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Js7WHklknMB37GqC4jKzP9Sf2UnMWHZpuz1-zrBKxeA=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\aM1JjRz_76QPuDN9X07z2vqNRsw8uM1ECOAPOKbHQSw=.hash",
       "Source": "C:\\Dev\\BlazorMovies\\BlazorMovies\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorMovies.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorMovies.Client.dll.gz"
     },
@@ -206,7 +206,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hYhJXWCFI48FtjQUhB0SWATeNtb63wozYxAQcxbYR4k=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6JZBO_9PfkPTXHhRGjT-gn3i--Y1oURj_lrV9HAIpU0=.hash",
       "Source": "C:\\Dev\\BlazorMovies\\BlazorMovies\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorMovies.Shared.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorMovies.Shared.dll.gz"
     },
@@ -266,12 +266,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\UL7HXqvU1j1rtVliByGaWvB5HMTQaNq5wVcdqyouafc=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\dCELRRrYqIggzhOmBVrMUPgJZ6o_NRY2jxDD55Rlm1M=.hash",
       "Source": "C:\\Dev\\BlazorMovies\\BlazorMovies\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorMovies.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorMovies.Client.pdb.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\WM-axKGSJ4qNslHDoFMbwVgzWwqixH6vNv73XdZGZz0=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\WlkmBFbk56mTNkhJqsW5QF3mGd5FKR6D93Mh4heelMU=.hash",
       "Source": "C:\\Dev\\BlazorMovies\\BlazorMovies\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorMovies.Shared.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorMovies.Shared.pdb.gz"
     },
@@ -296,7 +296,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\CVHZdvyISa_71KAFMVpVGF1Arw5F5tdcRUFCOYaxfmE=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\pfVIwuu_ea_Pm1-DENxHQsIhpKlXjpfqEwlC-2x9ksY=.hash",
       "Source": "C:\\Dev\\BlazorMovies\\BlazorMovies\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }

@@ -1,22 +1,14 @@
 ﻿@page "/"
-@inject SingletonService singleton
+@page "/index"
 @inject IRepository repository
-@using static BlazorMovies.Client.Shared.MainLayout;
-@using Microsoft.AspNetCore.Components;
-
-
-<p style="color:@AppState.Color; ">Singleton count: @singleton.Value</p>
 
 <div>
     <h3>Movies</h3>
     <MoviesList Movies="movies" />
 </div>
 
-<button @onclick="AddNewMovie">Add new movie</button>
-
 @code
 {
-    [CascadingParameter] public AppState AppState { get; set; }
     private List<Movie> movies;
     protected override void OnInitialized()
     {
@@ -25,8 +17,4 @@
 
     }
 
-    private void AddNewMovie()
-    {
-        movies.Add(new Movie() { Title = "Movie Sample", ReleaseDate = DateTime.Today });
-    }
 }

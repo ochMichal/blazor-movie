@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jFog5BeqlzUotto/eyy2v2q9x5RcFddFPkMKUxGDZBpCvUO2RJYYHb2O/pi/kF33WJ+Y9yXdcn71CjNfq27mdg==",
+  "dgSpecHash": "bpSMtzD1ZHzzSx3dtmufZPriSRzS8kNkHjASz6K2k8d7/h+6hwP2IWpriDLxA8WrdP5v7lBnfr3PdCAVzpUeNg==",
   "success": true,
   "projectFilePath": "C:\\Dev\\BlazorMovies\\BlazorMovies\\Server\\BlazorMovies.Server.csproj",
   "expectedPackageFiles": [
