@@ -390,12 +390,12 @@ C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Mov
 C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Movies\EditMovie.razor.g.cs
 C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\People\CreatePerson.razor.g.cs
 C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\People\EditPerson.razor.g.cs
-C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\6JZBO_9PfkPTXHhRGjT-gn3i--Y1oURj_lrV9HAIpU0=.hash
-C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\WlkmBFbk56mTNkhJqsW5QF3mGd5FKR6D93Mh4heelMU=.hash
 C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Genres\IndexGenres.razor.g.cs
 C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Genres\IndexGenres.razor.g.cs
 C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\People\IndexPeople.razor.g.cs
 C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\People\IndexPeople.razor.g.cs
-C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\aM1JjRz_76QPuDN9X07z2vqNRsw8uM1ECOAPOKbHQSw=.hash
-C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\dCELRRrYqIggzhOmBVrMUPgJZ6o_NRY2jxDD55Rlm1M=.hash
-C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\pfVIwuu_ea_Pm1-DENxHQsIhpKlXjpfqEwlC-2x9ksY=.hash
+C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\Z1fxuFL31Bjqao0Fb4m4eG9KFlOo_sDM-GfN-9chqaI=.hash
+C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\OpwFcxVeKGKb_9tHkvq2Awvd83syvSlztASq6cyY2hA=.hash
+C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\SF7uQN3oXovi7623l789jdHorg9Z7xvCZHFMq7GvqBQ=.hash
+C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\mvBOeBZNrS9notI2r93bLr1eEiBIR-DV2qguzVOJ-bU=.hash
+C:\Dev\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\0nUqNWqGKJCRPNVKzWRFBvCMoWeBEioRqzR9izq2zZI=.hash
