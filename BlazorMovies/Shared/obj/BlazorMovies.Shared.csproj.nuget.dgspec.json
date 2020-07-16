@@ -14,7 +14,8 @@
         "outputPath": "C:\\Dev\\BlazorMovies\\BlazorMovies\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\plmioch\\AppData\\Roaming\\NuGet\\NuGet.Config",
